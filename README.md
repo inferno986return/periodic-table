@@ -9,6 +9,11 @@ I have modified [*The Periodic Table of the Elements in Adobe Illustrator Format
 
 The original Adobe Illustrator (.ai) file in this repository in case you don't like the direction I have gone with this.
 
+## To-do
+* Make printable on A3 size paper – worst case may involve drawing the whole thing from scratch!
+* Colour variant using a flat-design colour palette
+* Export finished design to SVG, PNG and PDF
+
 ## Licencing
 The periodic table is licenced under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
